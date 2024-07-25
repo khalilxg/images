@@ -4,6 +4,7 @@ Transform your website with our state-of-the-art chatbot technology. Integrate t
 
 Here’s how you can get started:
 "
+html
 <body> 
 <script
   data-greeting="Welcome! How can we assist you today?"
@@ -20,6 +21,7 @@ Here’s how you can get started:
   src="http://xxxxxxxx">
 </script>
 </body>
+html
 "
 
 As simple as adding those 10 lines of code.
