@@ -3,26 +3,23 @@ Unlock Cutting-Edge AI Support with SupportGPT! 🚀
 Transform your website with our state-of-the-art chatbot technology. Integrate this simple code into your web solution and experience the power of SupportGPT by AIBC.
 
 Here’s how you can get started:
-"
-html
-<body> 
-<script
-  data-greeting="Welcome! How can we assist you today?"
-  data-brand-image-url="https://raw.githubusercontent.com/khalilxg/images/main/robotsmall.svg"
-  data-sponsor-link="https://web.aibc.tn"
-  data-sponsor-text="Powered by CLT"
-  data-assistant-name="CLT Assistant"
-  data-assistant-icon="https://raw.githubusercontent.com/khalilxg/images/main/robotsmall.svg"
-  data-chat-icon="support"
-  data-open-on-load="on"
-  data-support-email="aimedia.flow@gmail.com"
-  data-embed-id="xxxxxx"
-  data-base-api-url="http://xxxxx"
-  src="http://xxxxxxxx">
-</script>
-</body>
-html
-"
+
+      <body> 
+      <script
+        data-greeting="Welcome! How can we assist you today?"
+        data-brand-image-url="https://raw.githubusercontent.com/khalilxg/images/main/robotsmall.svg"
+        data-sponsor-link="https://web.aibc.tn"
+        data-sponsor-text="Powered by CLT"
+        data-assistant-name="CLT Assistant"
+        data-assistant-icon="https://raw.githubusercontent.com/khalilxg/images/main/robotsmall.svg"
+        data-chat-icon="support"
+        data-open-on-load="on"
+        data-support-email="aimedia.flow@gmail.com"
+        data-embed-id="xxxxxx"
+        data-base-api-url="http://xxxxx"
+        src="http://xxxxxxxx">
+      </script>
+      </body>
 
 As simple as adding those 10 lines of code.
 
